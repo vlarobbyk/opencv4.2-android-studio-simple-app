@@ -75,5 +75,5 @@ This project is licensed under [The GNU General Public License v3.0](https://www
 ## Acknowledgments
 
 Inspiration:
-* [Joe Wong](How to import OpenCV 4.5.2 in android studio)
+* [Joe Wong](https://www.youtube.com/watch?v=Sn3YhfY5jqg)
 * [The Coding Notebook](https://www.youtube.com/watch?v=Sn3YhfY5jqg)

@@ -3,6 +3,9 @@
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
+#include <opencv2/dnn.hpp>
+#include <opencv2/video.hpp>
+
 #include "android/bitmap.h"
 
 extern "C" JNIEXPORT jstring JNICALL
