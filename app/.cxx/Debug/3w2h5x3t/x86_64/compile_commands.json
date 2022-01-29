@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/.cxx/Debug/3w2h5x3t/x86_64",
+  "command": "/home/vlarobbyk/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/vlarobbyk/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/vlarobbyk/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dopencvhelade_EXPORTS -I/home/vlarobbyk/AndroidStudioProjects/OpenCVFilin/opencvsdk/native/jni/include -isystem /home/vlarobbyk/aplicaciones/Librerias/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/opencvhelade.dir/native-lib.cpp.o -c /home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/src/main/cpp/native-lib.cpp"
+}
+]

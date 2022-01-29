@@ -1,0 +1,1 @@
+/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/x86

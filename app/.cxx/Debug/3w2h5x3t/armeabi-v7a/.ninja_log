@@ -1,0 +1,11 @@
+# ninja log v5
+0	362	1643476809	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	a0d828cbbed2fb32
+362	497	1643476809	/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/armeabi-v7a/libopencvhelade.so	d96589c1c2785498
+1	299	1643477121	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	cc11769d36984c19
+299	359	1643477121	/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/armeabi-v7a/libopencvhelade.so	d96589c1c2785498
+0	785	1643477839	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	cc11769d36984c19
+785	1060	1643477840	/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/armeabi-v7a/libopencvhelade.so	d96589c1c2785498
+1	797	1643478319	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	cc11769d36984c19
+797	972	1643478319	/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/armeabi-v7a/libopencvhelade.so	d96589c1c2785498
+1	859	1643483433	CMakeFiles/opencvhelade.dir/native-lib.cpp.o	cc11769d36984c19
+859	1039	1643483433	/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/build/intermediates/cxx/Debug/3w2h5x3t/obj/armeabi-v7a/libopencvhelade.so	d96589c1c2785498

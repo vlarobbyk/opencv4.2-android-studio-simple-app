@@ -1,0 +1,7 @@
+Executable : /home/vlarobbyk/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/vlarobbyk/AndroidStudioProjects/OpenCVHelade/app/.cxx/Debug/3w2h5x3t/x86
+opencvhelade
+jvmArgs : 
+
