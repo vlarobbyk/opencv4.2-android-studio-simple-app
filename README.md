@@ -52,9 +52,8 @@ Java_giiata_vision_opencvhelade_MainActivity_filters(
 
 ## Sample video
 
-```none
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1XqZ81ux0ReOurZFF8kcrbEGv2wvwFthb/view?usp=sharing)
-```
+[Video-Sample-OpenCV-4.2-Android-Studio-Bumblebee.webm](https://user-images.githubusercontent.com/14263548/210115150-ea314f99-3e9e-4390-a663-234a26c9899a.webm)
+
 
 ## Authors
 
